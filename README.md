@@ -6,3 +6,6 @@ This to change file content.
 2. This is written on branch main side.
 3. This is changed on branch conflict
 4. another line written on branch conflict side
+
+
+This is written on branch remote for testing rebase
