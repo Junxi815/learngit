@@ -7,4 +7,6 @@ This to change file content.
 3. This is changed on branch conflict
 4. another line written on branch conflict side
 
+
+This is written on branch remote for testing rebase
 Change on main branch mocking possible change by other developers
